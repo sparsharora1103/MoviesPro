@@ -1,3 +1,5 @@
+Created a movies app with HTML,CSS,Javascript and ReactJS and using API for fetching data
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
